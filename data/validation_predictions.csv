@@ -1,0 +1,330 @@
+risk_score,bucket,order_value,city,state,courier,utm_source,target_rto,rto_cost_avoided_inr,genuine_margin_lost_inr,prepaid_discount_cost_inr,net_impact_inr
+0.20768985115570654,Ship after confirmation,1297,Bengaluru,Karnataka,Ecom Express,influencer,0,17.59,15.94,0.0,1.65
+0.3847583151532968,Nudge to prepaid,349,Kota,Rajasthan,Shadowfax,meta_ads,1,17.52,0.0,7.5,10.02
+0.35742638958056583,Nudge to prepaid,1546,Lucknow,Uttar Pradesh,Delhivery,meta_ads,0,16.13,0.0,7.5,8.63
+0.22521593539217863,Ship after confirmation,399,Hyderabad,Telangana,Delhivery,meta_ads,0,19.08,15.59,0.0,3.49
+0.20922731385950222,Ship after confirmation,449,Mumbai,Maharashtra,Shadowfax,direct,0,17.72,15.91,0.0,1.81
+0.5527588955211974,Nudge to prepaid,2499,Pune,Maharashtra,Shadowfax,google_ads,1,26.06,0.0,7.5,18.56
+0.20153798360682687,Ship after confirmation,1198,Bengaluru,Karnataka,Delhivery,instagram_organic,0,17.07,16.06,0.0,1.01
+0.2187508828177433,Ship after confirmation,748,Bengaluru,Karnataka,Xpressbees,meta_ads,0,18.53,15.72,0.0,2.81
+0.20722973342174472,Ship after confirmation,1398,Bengaluru,Karnataka,Delhivery,direct,0,17.55,15.95,0.0,1.6
+0.28487312370663986,Ship after confirmation,2999,Chennai,Tamil Nadu,Xpressbees,meta_ads,1,24.13,14.39,0.0,9.74
+0.1574654326539537,Ship as-is,499,Kolkata,West Bengal,Shadowfax,direct,1,0.0,0.0,0.0,0.0
+0.17428109139699366,Ship as-is,599,Hyderabad,Telangana,Xpressbees,google_ads,0,0.0,0.0,0.0,0.0
+0.5781465822622975,Nudge to prepaid,449,Delhi,Delhi,Ecom Express,meta_ads,1,27.35,0.0,7.5,19.85
+0.2624320187077467,Ship after confirmation,299,Jaipur,Rajasthan,Shadowfax,instagram_organic,1,22.23,14.84,0.0,7.39
+0.496775729638989,Nudge to prepaid,349,Bengaluru,Karnataka,Xpressbees,instagram_organic,1,23.21,0.0,7.5,15.71
+0.3591287288332176,Nudge to prepaid,449,Lucknow,Uttar Pradesh,Shadowfax,whatsapp_broadcast,0,16.22,0.0,7.5,8.72
+0.18429081170021142,Ship as-is,499,Mumbai,Maharashtra,Ecom Express,meta_ads,0,0.0,0.0,0.0,0.0
+0.3452357107570028,Nudge to prepaid,699,Lucknow,Uttar Pradesh,Xpressbees,meta_ads,0,15.51,0.0,7.5,8.01
+0.2247126301681977,Ship after confirmation,449,Jaipur,Rajasthan,Delhivery,influencer,0,19.03,15.6,0.0,3.44
+0.12083824454952684,Ship as-is,1048,Pune,Maharashtra,Shadowfax,meta_ads,0,0.0,0.0,0.0,0.0
+0.40902158625449825,Nudge to prepaid,648,Kota,Rajasthan,Xpressbees,whatsapp_broadcast,0,18.75,0.0,7.5,11.25
+0.22753055512031697,Ship after confirmation,1496,Kolkata,West Bengal,Shadowfax,google_ads,0,19.27,15.54,0.0,3.73
+0.21288854660551101,Ship after confirmation,349,Bengaluru,Karnataka,Xpressbees,influencer,0,18.03,15.84,0.0,2.2
+0.23596731772702348,Ship after confirmation,299,Hyderabad,Telangana,Shadowfax,direct,0,19.99,15.37,0.0,4.61
+0.2043151202238346,Ship after confirmation,1347,Delhi,Delhi,Delhivery,meta_ads,0,17.31,16.01,0.0,1.3
+0.1974021032534056,Ship as-is,998,Hyderabad,Telangana,Delhivery,instagram_organic,0,0.0,0.0,0.0,0.0
+0.5205060471711793,Nudge to prepaid,299,Gorakhpur,Uttar Pradesh,Xpressbees,meta_ads,0,24.42,0.0,7.5,16.92
+0.5152178255717308,Nudge to prepaid,499,Mumbai,Maharashtra,Xpressbees,influencer,1,24.15,0.0,7.5,16.65
+0.4048962782793166,Nudge to prepaid,748,Patna,Bihar,Delhivery,meta_ads,1,18.54,0.0,7.5,11.04
+0.6480364890829559,Nudge to prepaid,499,Hyderabad,Telangana,Xpressbees,meta_ads,1,30.9,0.0,7.5,23.4
+0.20194133782903323,Ship after confirmation,399,Delhi,Delhi,Xpressbees,google_ads,0,17.1,16.06,0.0,1.05
+0.25130686464077084,Ship after confirmation,798,Hyderabad,Telangana,Delhivery,direct,0,21.29,15.06,0.0,6.22
+0.3400759063894809,Nudge to prepaid,948,Guwahati,Assam,Delhivery,meta_ads,1,15.25,0.0,7.5,7.75
+0.16394818368239708,Ship as-is,998,Delhi,Delhi,Shadowfax,meta_ads,0,0.0,0.0,0.0,0.0
+0.6406798159844765,Nudge to prepaid,948,Lucknow,Uttar Pradesh,Delhivery,whatsapp_broadcast,0,30.53,0.0,7.5,23.03
+0.153331599270488,Ship as-is,948,Chennai,Tamil Nadu,Delhivery,meta_ads,0,0.0,0.0,0.0,0.0
+0.3754955912396159,Nudge to prepaid,2499,Indore,Madhya Pradesh,BlueDart,google_ads,0,17.05,0.0,7.5,9.55
+0.5979859904158973,Nudge to prepaid,699,Bengaluru,Karnataka,Delhivery,instagram_organic,1,28.36,0.0,7.5,20.86
+0.5243214591757002,Nudge to prepaid,1347,Bareilly,Uttar Pradesh,Ecom Express,whatsapp_broadcast,1,24.61,0.0,7.5,17.11
+0.14666819540345633,Ship as-is,948,Chennai,Tamil Nadu,Ecom Express,direct,0,0.0,0.0,0.0,0.0
+0.5276637428252688,Nudge to prepaid,299,Madhubani,Bihar,Shadowfax,meta_ads,1,24.78,0.0,7.5,17.28
+0.1502811877823289,Ship as-is,449,Chennai,Tamil Nadu,BlueDart,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.46998049914059276,Nudge to prepaid,499,Darbhanga,Bihar,Shadowfax,direct,0,21.85,0.0,7.5,14.35
+0.2005103543329691,Ship after confirmation,1148,Delhi,Delhi,BlueDart,whatsapp_broadcast,0,16.98,16.08,0.0,0.9
+0.20674786810581722,Ship after confirmation,599,Mumbai,Maharashtra,Shadowfax,direct,0,17.51,15.96,0.0,1.55
+0.2282756342443662,Ship after confirmation,748,Chennai,Tamil Nadu,Delhivery,google_ads,0,19.33,15.53,0.0,3.81
+0.60139721904294,Nudge to prepaid,1996,Indore,Madhya Pradesh,Xpressbees,influencer,1,28.53,0.0,7.5,21.03
+0.6486245314623365,Nudge to prepaid,699,Nagaon,Assam,Delhivery,influencer,1,30.93,0.0,7.5,23.43
+0.17817828361993787,Ship as-is,1647,Kolkata,West Bengal,Delhivery,instagram_organic,0,0.0,0.0,0.0,0.0
+0.37959235593917945,Nudge to prepaid,449,Patna,Bihar,Xpressbees,google_ads,1,17.26,0.0,7.5,9.76
+0.22465422622203168,Ship after confirmation,399,Bengaluru,Karnataka,Xpressbees,meta_ads,1,19.03,15.6,0.0,3.43
+0.23170514296630734,Ship after confirmation,399,Hyderabad,Telangana,Shadowfax,meta_ads,0,19.63,15.46,0.0,4.17
+0.5966884845235254,Nudge to prepaid,2396,Jaipur,Rajasthan,Xpressbees,meta_ads,0,28.29,0.0,7.5,20.79
+0.20788524039859915,Ship after confirmation,1347,Bengaluru,Karnataka,Shadowfax,instagram_organic,0,17.61,15.94,0.0,1.67
+0.4185820476575854,Nudge to prepaid,299,Sagar,Madhya Pradesh,Shadowfax,instagram_organic,1,19.24,0.0,7.5,11.74
+0.23383991296761766,Ship after confirmation,399,Delhi,Delhi,Delhivery,whatsapp_broadcast,0,19.81,15.41,0.0,4.39
+0.2394269922502392,Ship after confirmation,1198,Kolkata,West Bengal,BlueDart,meta_ads,0,20.28,15.3,0.0,4.98
+0.38915085260530796,Nudge to prepaid,1596,Patna,Bihar,Xpressbees,meta_ads,0,17.74,0.0,7.5,10.24
+0.22798477629317448,Ship after confirmation,399,Bengaluru,Karnataka,Delhivery,meta_ads,0,19.31,15.53,0.0,3.78
+0.3948876659322362,Nudge to prepaid,1198,Lucknow,Uttar Pradesh,BlueDart,meta_ads,0,18.04,0.0,7.5,10.54
+0.3431716954223516,Nudge to prepaid,699,Lucknow,Uttar Pradesh,BlueDart,meta_ads,0,15.41,0.0,7.5,7.91
+0.18597691353835943,Ship as-is,599,Pune,Maharashtra,Shadowfax,instagram_organic,0,0.0,0.0,0.0,0.0
+0.17478822880896303,Ship as-is,399,Hyderabad,Telangana,Delhivery,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.30344167697756325,Nudge to prepaid,599,Lucknow,Uttar Pradesh,Delhivery,influencer,1,13.39,0.0,7.5,5.89
+0.12571131528711174,Ship as-is,998,Mumbai,Maharashtra,Delhivery,instagram_organic,0,0.0,0.0,0.0,0.0
+0.20682226264185677,Ship after confirmation,499,Bengaluru,Karnataka,Delhivery,instagram_organic,0,17.52,15.96,0.0,1.56
+0.4821593939777225,Nudge to prepaid,748,Delhi,Delhi,Delhivery,meta_ads,0,22.47,0.0,7.5,14.97
+0.3946292309045378,Nudge to prepaid,599,Lucknow,Uttar Pradesh,Ecom Express,influencer,0,18.02,0.0,7.5,10.52
+0.2051871713504334,Ship after confirmation,499,Delhi,Delhi,Shadowfax,influencer,1,17.38,15.99,0.0,1.39
+0.2252415232947528,Ship after confirmation,2999,Delhi,Delhi,Delhivery,google_ads,0,19.08,15.59,0.0,3.49
+0.22404269656793543,Ship after confirmation,349,Jaipur,Rajasthan,BlueDart,direct,1,18.98,15.61,0.0,3.36
+0.26833292262779174,Ship after confirmation,2346,Bengaluru,Karnataka,Delhivery,google_ads,0,22.73,14.72,0.0,8.01
+0.18886857447517008,Ship as-is,399,Mumbai,Maharashtra,Ecom Express,instagram_organic,0,0.0,0.0,0.0,0.0
+0.4378552159773804,Nudge to prepaid,1298,Darbhanga,Bihar,Ecom Express,instagram_organic,1,20.22,0.0,7.5,12.72
+0.268027557077789,Ship after confirmation,1098,Pune,Maharashtra,Shadowfax,google_ads,0,22.7,14.73,0.0,7.98
+0.24853132129570998,Ship after confirmation,399,Mumbai,Maharashtra,Ecom Express,google_ads,0,21.05,15.12,0.0,5.93
+0.1365518298237243,Ship as-is,499,Pune,Maharashtra,Xpressbees,meta_ads,0,0.0,0.0,0.0,0.0
+0.17193492791428694,Ship as-is,1198,Pune,Maharashtra,Ecom Express,meta_ads,0,0.0,0.0,0.0,0.0
+0.20343066351423786,Ship after confirmation,299,Delhi,Delhi,Delhivery,whatsapp_broadcast,0,17.23,16.03,0.0,1.2
+0.20374915041654898,Ship after confirmation,1297,Hyderabad,Telangana,Xpressbees,whatsapp_broadcast,0,17.26,16.02,0.0,1.24
+0.15450093473427406,Ship as-is,998,Chennai,Tamil Nadu,Ecom Express,meta_ads,0,0.0,0.0,0.0,0.0
+0.3938340619989601,Nudge to prepaid,399,Kota,Rajasthan,Delhivery,meta_ads,0,17.98,0.0,7.5,10.48
+0.20836688495902747,Ship after confirmation,349,Delhi,Delhi,Ecom Express,instagram_organic,0,17.65,15.93,0.0,1.72
+0.1930787900558741,Ship as-is,1597,Pune,Maharashtra,Delhivery,meta_ads,0,0.0,0.0,0.0,0.0
+0.22323938242793856,Ship after confirmation,499,Delhi,Delhi,BlueDart,meta_ads,0,18.91,15.63,0.0,3.28
+0.22628115074012123,Ship after confirmation,699,Bengaluru,Karnataka,Xpressbees,meta_ads,0,19.17,15.57,0.0,3.6
+0.3527969966143159,Nudge to prepaid,1797,Bengaluru,Karnataka,Ecom Express,direct,1,15.9,0.0,7.5,8.4
+0.6507422978337013,Nudge to prepaid,599,Kolkata,West Bengal,Xpressbees,meta_ads,1,31.04,0.0,7.5,23.54
+0.19893445574508373,Ship as-is,598,Bengaluru,Karnataka,Delhivery,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.2626515621442474,Ship after confirmation,648,Chennai,Tamil Nadu,Delhivery,meta_ads,0,22.25,14.83,0.0,7.41
+0.34269664020626844,Nudge to prepaid,349,Indore,Madhya Pradesh,Delhivery,meta_ads,1,15.38,0.0,7.5,7.88
+0.20448583613481428,Ship after confirmation,499,Delhi,Delhi,Ecom Express,whatsapp_broadcast,0,17.32,16.0,0.0,1.32
+0.18503588388986222,Ship as-is,399,Pune,Maharashtra,Shadowfax,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.3218264213986371,Nudge to prepaid,798,Indore,Madhya Pradesh,Delhivery,meta_ads,0,14.32,0.0,7.5,6.82
+0.33438118654494886,Nudge to prepaid,299,Guwahati,Assam,Xpressbees,direct,0,14.96,0.0,7.5,7.46
+0.5764529801586313,Nudge to prepaid,699,Sagar,Madhya Pradesh,Ecom Express,meta_ads,1,27.26,0.0,7.5,19.76
+0.2726402717965004,Ship after confirmation,1197,Kolkata,West Bengal,BlueDart,meta_ads,0,23.09,14.63,0.0,8.46
+0.27957976179752536,Ship after confirmation,299,Delhi,Delhi,Shadowfax,whatsapp_broadcast,0,23.68,14.49,0.0,9.19
+0.5216195892673755,Nudge to prepaid,449,Bareilly,Uttar Pradesh,Xpressbees,meta_ads,1,24.48,0.0,7.5,16.98
+0.2047236299046466,Ship after confirmation,1097,Bengaluru,Karnataka,Ecom Express,direct,0,17.34,16.0,0.0,1.34
+0.18093886569741532,Ship as-is,349,Mumbai,Maharashtra,Delhivery,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.2103476379948746,Ship after confirmation,1098,Delhi,Delhi,Xpressbees,meta_ads,0,17.82,15.89,0.0,1.93
+0.32152333649581594,Nudge to prepaid,449,Indore,Madhya Pradesh,Delhivery,whatsapp_broadcast,0,14.31,0.0,7.5,6.81
+0.15393448558263653,Ship as-is,848,Hyderabad,Telangana,Ecom Express,meta_ads,0,0.0,0.0,0.0,0.0
+0.20991536422682439,Ship after confirmation,848,Bengaluru,Karnataka,Xpressbees,meta_ads,0,17.78,15.9,0.0,1.88
+0.24503968037020646,Ship after confirmation,1696,Delhi,Delhi,Shadowfax,direct,0,20.75,15.19,0.0,5.57
+0.23412350019521017,Ship after confirmation,349,Bengaluru,Karnataka,Xpressbees,influencer,1,19.83,15.41,0.0,4.42
+0.3634380741550682,Nudge to prepaid,1597,Patna,Bihar,Shadowfax,google_ads,0,16.44,0.0,7.5,8.94
+0.44364854325552044,Nudge to prepaid,798,Guwahati,Assam,Delhivery,google_ads,0,20.51,0.0,7.5,13.01
+0.2203645151177958,Ship after confirmation,948,Bengaluru,Karnataka,Xpressbees,whatsapp_broadcast,0,18.66,15.69,0.0,2.98
+0.36894547769074093,Nudge to prepaid,1297,Nagaon,Assam,Delhivery,instagram_organic,0,16.72,0.0,7.5,9.22
+0.1620218196962956,Ship as-is,449,Kolkata,West Bengal,Shadowfax,whatsapp_broadcast,1,0.0,0.0,0.0,0.0
+0.22278386012907653,Ship after confirmation,299,Chennai,Tamil Nadu,Delhivery,meta_ads,0,18.87,15.64,0.0,3.23
+0.18464336868891681,Ship as-is,449,Jaipur,Rajasthan,Xpressbees,meta_ads,0,0.0,0.0,0.0,0.0
+0.32870864582055526,Nudge to prepaid,449,Chennai,Tamil Nadu,Delhivery,instagram_organic,0,14.67,0.0,7.5,7.17
+0.16203237225467967,Ship as-is,998,Chennai,Tamil Nadu,Delhivery,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.2513201233744512,Ship after confirmation,998,Guwahati,Assam,Ecom Express,influencer,1,21.29,15.06,0.0,6.22
+0.4988995701862973,Nudge to prepaid,1447,Jaipur,Rajasthan,Xpressbees,google_ads,0,23.32,0.0,7.5,15.82
+0.17188588524067142,Ship as-is,1098,Pune,Maharashtra,Shadowfax,meta_ads,1,0.0,0.0,0.0,0.0
+0.3953003011101192,Nudge to prepaid,699,Sagar,Madhya Pradesh,Ecom Express,meta_ads,0,18.06,0.0,7.5,10.56
+0.198542900775094,Ship as-is,449,Delhi,Delhi,BlueDart,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.15864057155683697,Ship as-is,349,Bengaluru,Karnataka,Xpressbees,google_ads,0,0.0,0.0,0.0,0.0
+0.17766033191284308,Ship as-is,1447,Mumbai,Maharashtra,Delhivery,direct,0,0.0,0.0,0.0,0.0
+0.20968102170439706,Ship after confirmation,699,Mumbai,Maharashtra,Delhivery,meta_ads,1,17.76,15.9,0.0,1.86
+0.5114997939147756,Nudge to prepaid,1946,Patna,Bihar,BlueDart,google_ads,1,23.96,0.0,7.5,16.46
+0.2009354392690257,Ship after confirmation,449,Delhi,Delhi,Shadowfax,google_ads,0,17.02,16.08,0.0,0.94
+0.3272335454260872,Nudge to prepaid,748,Nagaon,Assam,BlueDart,instagram_organic,0,14.6,0.0,7.5,7.1
+0.1481451983352981,Ship as-is,449,Delhi,Delhi,BlueDart,influencer,0,0.0,0.0,0.0,0.0
+0.36011042074190736,Nudge to prepaid,699,Sagar,Madhya Pradesh,Delhivery,whatsapp_broadcast,0,16.27,0.0,7.5,8.77
+0.4232393648628718,Nudge to prepaid,349,Kota,Rajasthan,BlueDart,meta_ads,0,19.48,0.0,7.5,11.98
+0.581007036030981,Nudge to prepaid,898,Indore,Madhya Pradesh,Shadowfax,direct,1,27.49,0.0,7.5,19.99
+0.21473489761513267,Ship after confirmation,998,Chennai,Tamil Nadu,Delhivery,instagram_organic,0,18.19,15.8,0.0,2.39
+0.20167750539386253,Ship after confirmation,1098,Bengaluru,Karnataka,Xpressbees,google_ads,0,17.08,16.06,0.0,1.02
+0.2791831735223439,Ship after confirmation,798,Jaipur,Rajasthan,Delhivery,direct,1,23.65,14.5,0.0,9.14
+0.46850837896344566,Nudge to prepaid,2046,Patna,Bihar,Delhivery,whatsapp_broadcast,1,21.78,0.0,7.5,14.28
+0.2141400884850886,Ship after confirmation,698,Chennai,Tamil Nadu,Delhivery,meta_ads,0,18.14,15.81,0.0,2.33
+0.29552344613280923,Ship after confirmation,848,Lucknow,Uttar Pradesh,Shadowfax,instagram_organic,0,25.03,14.17,0.0,10.86
+0.19595934523347847,Ship as-is,1197,Delhi,Delhi,Delhivery,influencer,0,0.0,0.0,0.0,0.0
+0.3722036857173907,Nudge to prepaid,798,Guwahati,Assam,Shadowfax,whatsapp_broadcast,0,16.88,0.0,7.5,9.38
+0.4227951825023117,Nudge to prepaid,499,Sagar,Madhya Pradesh,Ecom Express,influencer,1,19.45,0.0,7.5,11.95
+0.16145446273467348,Ship as-is,798,Kolkata,West Bengal,Ecom Express,meta_ads,0,0.0,0.0,0.0,0.0
+0.3107401856985145,Nudge to prepaid,1098,Lucknow,Uttar Pradesh,Shadowfax,whatsapp_broadcast,0,13.76,0.0,7.5,6.26
+0.31705351818879063,Nudge to prepaid,399,Indore,Madhya Pradesh,Shadowfax,direct,0,14.08,0.0,7.5,6.58
+0.324467665659714,Nudge to prepaid,898,Lucknow,Uttar Pradesh,Xpressbees,meta_ads,0,14.46,0.0,7.5,6.96
+0.15714112764728683,Ship as-is,1397,Bengaluru,Karnataka,BlueDart,meta_ads,0,0.0,0.0,0.0,0.0
+0.6428273500475031,Nudge to prepaid,798,Sagar,Madhya Pradesh,Xpressbees,meta_ads,0,30.64,0.0,7.5,23.14
+0.15458796924252188,Ship as-is,798,Chennai,Tamil Nadu,Ecom Express,meta_ads,0,0.0,0.0,0.0,0.0
+0.15520841949216233,Ship as-is,848,Kolkata,West Bengal,BlueDart,influencer,0,0.0,0.0,0.0,0.0
+0.2678332035465354,Ship after confirmation,1547,Indore,Madhya Pradesh,Delhivery,direct,0,22.69,14.73,0.0,7.96
+0.35167947298571306,Nudge to prepaid,449,Nagaon,Assam,Xpressbees,meta_ads,0,15.84,0.0,7.5,8.34
+0.2483458654056987,Ship after confirmation,1796,Pune,Maharashtra,Delhivery,whatsapp_broadcast,0,21.03,15.12,0.0,5.91
+0.256874210827132,Ship after confirmation,2999,Hyderabad,Telangana,Delhivery,direct,0,21.76,14.95,0.0,6.81
+0.25298956139931644,Ship after confirmation,349,Pune,Maharashtra,Ecom Express,whatsapp_broadcast,0,21.43,15.03,0.0,6.4
+0.16909640368730564,Ship as-is,848,Pune,Maharashtra,Shadowfax,meta_ads,0,0.0,0.0,0.0,0.0
+0.16663651931285386,Ship as-is,1197,Mumbai,Maharashtra,Shadowfax,meta_ads,0,0.0,0.0,0.0,0.0
+0.2254186033062772,Ship after confirmation,1397,Chennai,Tamil Nadu,Shadowfax,meta_ads,0,19.09,15.58,0.0,3.51
+0.21576120393976816,Ship after confirmation,599,Kolkata,West Bengal,Ecom Express,direct,0,18.27,15.78,0.0,2.5
+0.1912661707198247,Ship as-is,1296,Pune,Maharashtra,Ecom Express,instagram_organic,0,0.0,0.0,0.0,0.0
+0.26958750442600304,Ship after confirmation,2999,Chennai,Tamil Nadu,Delhivery,influencer,0,22.83,14.7,0.0,8.14
+0.23768931464646734,Ship after confirmation,449,Chennai,Tamil Nadu,Xpressbees,whatsapp_broadcast,0,20.13,15.34,0.0,4.8
+0.6159544858961621,Nudge to prepaid,1148,Guwahati,Assam,Xpressbees,instagram_organic,1,29.27,0.0,7.5,21.77
+0.3720013316384802,Nudge to prepaid,299,Sagar,Madhya Pradesh,Xpressbees,whatsapp_broadcast,1,16.87,0.0,7.5,9.37
+0.2549878736216676,Ship after confirmation,299,Lucknow,Uttar Pradesh,Ecom Express,influencer,0,21.6,14.99,0.0,6.61
+0.18593767074040787,Ship as-is,349,Mumbai,Maharashtra,Shadowfax,meta_ads,0,0.0,0.0,0.0,0.0
+0.30753031208221915,Nudge to prepaid,1896,Jaipur,Rajasthan,Shadowfax,meta_ads,0,13.6,0.0,7.5,6.1
+0.20571402858999854,Ship after confirmation,699,Delhi,Delhi,Xpressbees,direct,0,17.42,15.98,0.0,1.44
+0.20699282417657391,Ship after confirmation,599,Chennai,Tamil Nadu,Delhivery,whatsapp_broadcast,0,17.53,15.95,0.0,1.58
+0.14050786536151394,Ship as-is,399,Mumbai,Maharashtra,BlueDart,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.5981387584103511,Nudge to prepaid,449,Hyderabad,Telangana,Delhivery,influencer,1,28.36,0.0,7.5,20.86
+0.20630700293939144,Ship after confirmation,1647,Pune,Maharashtra,Ecom Express,meta_ads,0,17.47,15.97,0.0,1.51
+0.45436097628371164,Nudge to prepaid,1398,Bareilly,Uttar Pradesh,Ecom Express,google_ads,0,21.06,0.0,7.5,13.56
+0.26001274159872645,Ship after confirmation,1597,Jaipur,Rajasthan,Shadowfax,meta_ads,1,22.02,14.89,0.0,7.14
+0.21608653974156763,Ship after confirmation,1297,Hyderabad,Telangana,Delhivery,google_ads,0,18.3,15.77,0.0,2.53
+0.5111394057807546,Nudge to prepaid,449,Bareilly,Uttar Pradesh,Xpressbees,whatsapp_broadcast,0,23.94,0.0,7.5,16.44
+0.26607892617749745,Ship after confirmation,1697,Hyderabad,Telangana,Shadowfax,meta_ads,1,22.54,14.77,0.0,7.77
+0.22367038916761028,Ship after confirmation,1347,Bengaluru,Karnataka,Shadowfax,direct,0,18.94,15.62,0.0,3.33
+0.3693764448086344,Nudge to prepaid,349,Kota,Rajasthan,Delhivery,whatsapp_broadcast,0,16.74,0.0,7.5,9.24
+0.4719513657122606,Nudge to prepaid,2999,Kota,Rajasthan,Xpressbees,whatsapp_broadcast,0,21.95,0.0,7.5,14.45
+0.4382613527643597,Nudge to prepaid,399,Mumbai,Maharashtra,Shadowfax,influencer,0,20.24,0.0,7.5,12.74
+0.1478624755570571,Ship as-is,948,Chennai,Tamil Nadu,Shadowfax,meta_ads,0,0.0,0.0,0.0,0.0
+0.17217116166423066,Ship as-is,948,Pune,Maharashtra,BlueDart,instagram_organic,0,0.0,0.0,0.0,0.0
+0.17231857435303397,Ship as-is,748,Pune,Maharashtra,Ecom Express,influencer,1,0.0,0.0,0.0,0.0
+0.22635701044929044,Ship after confirmation,1897,Kolkata,West Bengal,Shadowfax,meta_ads,0,19.17,15.56,0.0,3.61
+0.32956094314612866,Nudge to prepaid,349,Indore,Madhya Pradesh,Delhivery,instagram_organic,0,14.72,0.0,7.5,7.22
+0.22543857934030104,Ship after confirmation,449,Chennai,Tamil Nadu,Xpressbees,meta_ads,1,19.09,15.58,0.0,3.51
+0.3797323400678301,Nudge to prepaid,998,Patna,Bihar,Delhivery,whatsapp_broadcast,1,17.27,0.0,7.5,9.77
+0.22483657877652685,Ship after confirmation,699,Delhi,Delhi,Ecom Express,meta_ads,0,19.04,15.6,0.0,3.45
+0.13503527993995826,Ship as-is,299,Mumbai,Maharashtra,BlueDart,direct,0,0.0,0.0,0.0,0.0
+0.18121702082366617,Ship as-is,399,Jaipur,Rajasthan,Xpressbees,meta_ads,0,0.0,0.0,0.0,0.0
+0.7201244830727281,Hold / cancel,499,Bareilly,Uttar Pradesh,Delhivery,meta_ads,1,121.99,112.62,0.0,9.37
+0.21104053489841862,Ship after confirmation,798,Bengaluru,Karnataka,Delhivery,meta_ads,0,17.88,15.87,0.0,2.0
+0.6462768406465778,Nudge to prepaid,599,Delhi,Delhi,BlueDart,direct,0,30.81,0.0,7.5,23.31
+0.18321423302657833,Ship as-is,349,Pune,Maharashtra,Delhivery,google_ads,0,0.0,0.0,0.0,0.0
+0.31198790875028837,Nudge to prepaid,699,Lucknow,Uttar Pradesh,Xpressbees,google_ads,0,13.82,0.0,7.5,6.32
+0.22208216466401637,Ship after confirmation,349,Jaipur,Rajasthan,Delhivery,instagram_organic,0,18.81,15.65,0.0,3.16
+0.4077845519234208,Nudge to prepaid,1247,Patna,Bihar,Delhivery,meta_ads,1,18.69,0.0,7.5,11.19
+0.18431416746124618,Ship as-is,399,Mumbai,Maharashtra,Delhivery,instagram_organic,0,0.0,0.0,0.0,0.0
+0.2843420920934318,Ship after confirmation,2046,Chennai,Tamil Nadu,Shadowfax,direct,0,24.08,14.4,0.0,9.69
+0.20729342252276414,Ship after confirmation,399,Hyderabad,Telangana,BlueDart,influencer,0,17.56,15.95,0.0,1.61
+0.18757323578509552,Ship as-is,399,Pune,Maharashtra,Delhivery,meta_ads,1,0.0,0.0,0.0,0.0
+0.6038989246665247,Nudge to prepaid,599,Mumbai,Maharashtra,Delhivery,google_ads,1,28.66,0.0,7.5,21.16
+0.3814318621878813,Nudge to prepaid,299,Patna,Bihar,Delhivery,direct,0,17.35,0.0,7.5,9.85
+0.31253378573508567,Nudge to prepaid,748,Indore,Madhya Pradesh,Xpressbees,instagram_organic,0,13.85,0.0,7.5,6.35
+0.3339493617463518,Nudge to prepaid,1397,Lucknow,Uttar Pradesh,Xpressbees,meta_ads,1,14.94,0.0,7.5,7.44
+0.308651501744557,Nudge to prepaid,399,Lucknow,Uttar Pradesh,Shadowfax,influencer,1,13.65,0.0,7.5,6.15
+0.3121029368513651,Nudge to prepaid,399,Lucknow,Uttar Pradesh,Delhivery,influencer,1,13.83,0.0,7.5,6.33
+0.22787560184221028,Ship after confirmation,798,Pune,Maharashtra,Xpressbees,google_ads,0,19.3,15.53,0.0,3.77
+0.3293596897946529,Nudge to prepaid,1148,Lucknow,Uttar Pradesh,Shadowfax,meta_ads,1,14.71,0.0,7.5,7.21
+0.21496111788878708,Ship after confirmation,499,Kolkata,West Bengal,Xpressbees,whatsapp_broadcast,0,18.21,15.79,0.0,2.41
+0.2420647375265338,Ship after confirmation,299,Jaipur,Rajasthan,Shadowfax,meta_ads,0,20.5,15.25,0.0,5.25
+0.37787841769661984,Nudge to prepaid,2499,Delhi,Delhi,Xpressbees,direct,0,17.17,0.0,7.5,9.67
+0.22484252959107803,Ship after confirmation,1747,Pune,Maharashtra,Delhivery,direct,0,19.04,15.6,0.0,3.45
+0.22385490546765902,Ship after confirmation,499,Delhi,Delhi,Delhivery,meta_ads,0,18.96,15.62,0.0,3.35
+0.2056005348424671,Ship after confirmation,1797,Chennai,Tamil Nadu,Shadowfax,google_ads,0,17.41,15.98,0.0,1.43
+0.21775931123294798,Ship after confirmation,399,Kolkata,West Bengal,Delhivery,direct,0,18.44,15.74,0.0,2.71
+0.26026087285641936,Ship after confirmation,2999,Delhi,Delhi,BlueDart,direct,1,22.04,14.88,0.0,7.16
+0.3695141809467814,Nudge to prepaid,499,Sagar,Madhya Pradesh,Shadowfax,google_ads,0,16.75,0.0,7.5,9.25
+0.2612151710820043,Ship after confirmation,699,Hyderabad,Telangana,Xpressbees,influencer,0,22.12,14.86,0.0,7.26
+0.29550124972909847,Ship after confirmation,1899,Chennai,Tamil Nadu,Shadowfax,meta_ads,0,25.03,14.17,0.0,10.86
+0.1534809427505051,Ship as-is,1347,Bengaluru,Karnataka,Delhivery,influencer,0,0.0,0.0,0.0,0.0
+0.28367200734862325,Ship after confirmation,1797,Hyderabad,Telangana,Ecom Express,whatsapp_broadcast,0,24.03,14.41,0.0,9.62
+0.3383390429866982,Nudge to prepaid,798,Guwahati,Assam,Delhivery,meta_ads,1,15.16,0.0,7.5,7.66
+0.19812237045578185,Ship as-is,748,Delhi,Delhi,Ecom Express,direct,0,0.0,0.0,0.0,0.0
+0.2029072847654893,Ship after confirmation,998,Delhi,Delhi,Delhivery,meta_ads,0,17.19,16.04,0.0,1.15
+0.23029962859344033,Ship after confirmation,399,Delhi,Delhi,Delhivery,meta_ads,0,19.51,15.49,0.0,4.02
+0.3735700567225115,Nudge to prepaid,1298,Kota,Rajasthan,Xpressbees,whatsapp_broadcast,1,16.95,0.0,7.5,9.45
+0.3459882474701043,Nudge to prepaid,299,Lucknow,Uttar Pradesh,Xpressbees,meta_ads,0,15.55,0.0,7.5,8.05
+0.12725635696838145,Ship as-is,798,Mumbai,Maharashtra,Ecom Express,meta_ads,0,0.0,0.0,0.0,0.0
+0.21239722712789033,Ship after confirmation,698,Delhi,Delhi,Delhivery,meta_ads,0,17.99,15.85,0.0,2.14
+0.4996057728226256,Nudge to prepaid,1796,,Telangana,Ecom Express,meta_ads,0,23.36,0.0,7.5,15.86
+0.19525643001076864,Ship as-is,998,Delhi,Delhi,Shadowfax,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.1771404303200615,Ship as-is,848,Mumbai,Maharashtra,Ecom Express,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.2094729427516164,Ship after confirmation,1198,Kolkata,West Bengal,Shadowfax,direct,0,17.74,15.9,0.0,1.84
+0.17271968817022154,Ship as-is,748,Mumbai,Maharashtra,Delhivery,direct,0,0.0,0.0,0.0,0.0
+0.22707332239743133,Ship after confirmation,599,Bengaluru,Karnataka,Xpressbees,meta_ads,0,19.23,15.55,0.0,3.68
+0.17374098826397433,Ship as-is,1397,Pune,Maharashtra,BlueDart,meta_ads,0,0.0,0.0,0.0,0.0
+0.18959326966383092,Ship as-is,399,Mumbai,Maharashtra,Delhivery,instagram_organic,0,0.0,0.0,0.0,0.0
+0.5809266086772347,Nudge to prepaid,699,Kolkata,West Bengal,Shadowfax,influencer,1,27.49,0.0,7.5,19.99
+0.2049299773637092,Ship after confirmation,798,Bengaluru,Karnataka,Shadowfax,influencer,1,17.36,16.0,0.0,1.36
+0.16915594386901825,Ship as-is,1048,Mumbai,Maharashtra,Delhivery,influencer,0,0.0,0.0,0.0,0.0
+0.24148749103124767,Ship after confirmation,699,Jaipur,Rajasthan,Delhivery,meta_ads,0,20.45,15.26,0.0,5.19
+0.5836278216185711,Nudge to prepaid,449,Chennai,Tamil Nadu,Delhivery,meta_ads,1,27.63,0.0,7.5,20.13
+0.18364961274696265,Ship as-is,299,Pune,Maharashtra,Delhivery,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.19120220030132248,Ship as-is,399,Pune,Maharashtra,Ecom Express,meta_ads,1,0.0,0.0,0.0,0.0
+0.17188588524067142,Ship as-is,1098,Pune,Maharashtra,Shadowfax,meta_ads,1,0.0,0.0,0.0,0.0
+0.22350099976667948,Ship after confirmation,349,Delhi,Delhi,Ecom Express,meta_ads,0,18.93,15.62,0.0,3.31
+0.48733623418839084,Nudge to prepaid,299,Darbhanga,Bihar,Delhivery,instagram_organic,0,22.73,0.0,7.5,15.23
+0.6137239419152474,Nudge to prepaid,399,Mumbai,Maharashtra,Ecom Express,meta_ads,1,29.16,0.0,7.5,21.66
+0.1551426157081392,Ship as-is,449,Hyderabad,Telangana,Ecom Express,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.17817828361993787,Ship as-is,1647,Kolkata,West Bengal,Delhivery,instagram_organic,0,0.0,0.0,0.0,0.0
+0.7226952113752154,Hold / cancel,399,Bareilly,Uttar Pradesh,Delhivery,meta_ads,1,122.42,111.58,0.0,10.84
+0.6423065560511043,Nudge to prepaid,1048,Sagar,Madhya Pradesh,Delhivery,whatsapp_broadcast,1,30.61,0.0,7.5,23.11
+0.18485261860492067,Ship as-is,499,Mumbai,Maharashtra,Xpressbees,influencer,0,0.0,0.0,0.0,0.0
+0.256908429199024,Ship after confirmation,2199,Pune,Maharashtra,Xpressbees,meta_ads,1,21.76,14.95,0.0,6.81
+0.1641716333632039,Ship as-is,299,Mumbai,Maharashtra,Shadowfax,instagram_organic,0,0.0,0.0,0.0,0.0
+0.17366065568266292,Ship as-is,698,Pune,Maharashtra,Delhivery,direct,0,0.0,0.0,0.0,0.0
+0.19148329597269556,Ship as-is,1496,Mumbai,Maharashtra,Delhivery,instagram_organic,1,0.0,0.0,0.0,0.0
+0.21482723588762298,Ship after confirmation,698,Jaipur,Rajasthan,Shadowfax,instagram_organic,0,18.2,15.8,0.0,2.4
+0.7436369754918298,Hold / cancel,349,Lucknow,Uttar Pradesh,Delhivery,meta_ads,1,125.97,103.16,0.0,22.82
+0.5197446252690061,Nudge to prepaid,1547,Sagar,Madhya Pradesh,Shadowfax,influencer,1,24.38,0.0,7.5,16.88
+0.1672094217583599,Ship as-is,699,Chennai,Tamil Nadu,BlueDart,meta_ads,0,0.0,0.0,0.0,0.0
+0.5164983812865925,Nudge to prepaid,499,Bareilly,Uttar Pradesh,Xpressbees,meta_ads,0,24.22,0.0,7.5,16.72
+0.22934398736997097,Ship after confirmation,1646,Chennai,Tamil Nadu,Delhivery,whatsapp_broadcast,1,19.43,15.5,0.0,3.92
+0.23606979127979988,Ship after confirmation,349,Hyderabad,Telangana,Shadowfax,instagram_organic,1,20.0,15.37,0.0,4.63
+0.17570856911745045,Ship as-is,599,Bengaluru,Karnataka,Delhivery,influencer,0,0.0,0.0,0.0,0.0
+0.457829245122588,Nudge to prepaid,349,Hyderabad,Telangana,Delhivery,whatsapp_broadcast,0,21.23,0.0,7.5,13.73
+0.17771441182280587,Ship as-is,349,Kolkata,West Bengal,Delhivery,meta_ads,0,0.0,0.0,0.0,0.0
+0.3026117849500076,Nudge to prepaid,998,Lucknow,Uttar Pradesh,Ecom Express,influencer,0,13.35,0.0,7.5,5.85
+0.2057966128267681,Ship after confirmation,449,Bengaluru,Karnataka,Xpressbees,direct,0,17.43,15.98,0.0,1.45
+0.316409190273168,Nudge to prepaid,399,Lucknow,Uttar Pradesh,Delhivery,whatsapp_broadcast,0,14.05,0.0,7.5,6.55
+0.21035503726959545,Ship after confirmation,798,Kolkata,West Bengal,Ecom Express,direct,0,17.82,15.89,0.0,1.93
+0.1994175563373272,Ship as-is,698,Delhi,Delhi,Xpressbees,direct,0,0.0,0.0,0.0,0.0
+0.4542835102126074,Nudge to prepaid,1247,Gorakhpur,Uttar Pradesh,Xpressbees,google_ads,0,21.05,0.0,7.5,13.55
+0.29624919631327096,Ship after confirmation,449,Lucknow,Uttar Pradesh,Xpressbees,google_ads,0,25.09,14.16,0.0,10.93
+0.27902704208372864,Ship after confirmation,699,Lucknow,Uttar Pradesh,Xpressbees,meta_ads,0,23.63,14.51,0.0,9.13
+0.21475933857217436,Ship after confirmation,299,Mumbai,Maharashtra,BlueDart,google_ads,0,18.19,15.8,0.0,2.39
+0.21085147744851251,Ship after confirmation,898,Bengaluru,Karnataka,Xpressbees,meta_ads,1,17.86,15.88,0.0,1.98
+0.2512217662032893,Ship after confirmation,499,Delhi,Delhi,Delhivery,google_ads,0,21.28,15.06,0.0,6.21
+0.2080234575115725,Ship after confirmation,599,Chennai,Tamil Nadu,Shadowfax,google_ads,0,17.62,15.93,0.0,1.69
+0.3241200547930584,Nudge to prepaid,399,Indore,Madhya Pradesh,Delhivery,instagram_organic,0,14.44,0.0,7.5,6.94
+0.6401520887392056,Nudge to prepaid,499,Chennai,Tamil Nadu,BlueDart,meta_ads,1,30.5,0.0,7.5,23.0
+0.5365969235835845,Nudge to prepaid,1597,Gorakhpur,Uttar Pradesh,Ecom Express,instagram_organic,1,25.24,0.0,7.5,17.74
+0.1528111597255092,Ship as-is,1048,Bengaluru,Karnataka,Shadowfax,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.3248814015697382,Nudge to prepaid,1148,Lucknow,Uttar Pradesh,Delhivery,meta_ads,0,14.48,0.0,7.5,6.98
+0.2037129823789883,Ship after confirmation,798,Hyderabad,Telangana,Delhivery,direct,0,17.25,16.02,0.0,1.23
+0.4928326108620677,Nudge to prepaid,299,Gorakhpur,Uttar Pradesh,Ecom Express,influencer,0,23.01,0.0,7.5,15.51
+0.21132395223968523,Ship after confirmation,599,Delhi,Delhi,Xpressbees,google_ads,0,17.9,15.87,0.0,2.03
+0.1524685251189035,Ship as-is,898,Delhi,Delhi,Ecom Express,meta_ads,0,0.0,0.0,0.0,0.0
+0.18341332955306325,Ship as-is,1396,Mumbai,Maharashtra,Delhivery,instagram_organic,0,0.0,0.0,0.0,0.0
+0.28487312370663986,Ship after confirmation,2999,Chennai,Tamil Nadu,Xpressbees,meta_ads,1,24.13,14.39,0.0,9.74
+0.17454371391924034,Ship as-is,748,Pune,Maharashtra,Xpressbees,influencer,0,0.0,0.0,0.0,0.0
+0.20580531315835568,Ship after confirmation,1347,Delhi,Delhi,Delhivery,meta_ads,0,17.43,15.98,0.0,1.45
+0.15401730299768154,Ship as-is,399,Chennai,Tamil Nadu,Ecom Express,influencer,0,0.0,0.0,0.0,0.0
+0.26292385235529014,Ship after confirmation,599,Pune,Maharashtra,Shadowfax,meta_ads,1,22.27,14.83,0.0,7.44
+0.30915102814669254,Nudge to prepaid,449,Lucknow,Uttar Pradesh,Delhivery,direct,0,13.68,0.0,7.5,6.18
+0.34433218397280385,Nudge to prepaid,1198,Bengaluru,Karnataka,Shadowfax,google_ads,1,15.47,0.0,7.5,7.97
+0.4472020934388426,Nudge to prepaid,2499,Patna,Bihar,Delhivery,influencer,0,20.69,0.0,7.5,13.19
+0.5192153914123424,Nudge to prepaid,1397,Gorakhpur,Uttar Pradesh,Delhivery,instagram_organic,0,24.35,0.0,7.5,16.85
+0.21318499124160747,Ship after confirmation,499,Bengaluru,Karnataka,Xpressbees,instagram_organic,0,18.06,15.83,0.0,2.23
+0.17407947397059856,Ship as-is,1198,Mumbai,Maharashtra,Delhivery,direct,0,0.0,0.0,0.0,0.0
+0.18027110131537719,Ship as-is,349,Kolkata,West Bengal,Delhivery,meta_ads,0,0.0,0.0,0.0,0.0
+0.5045050148324132,Nudge to prepaid,798,Delhi,Delhi,Delhivery,instagram_organic,0,23.61,0.0,7.5,16.11
+0.1841632108873138,Ship as-is,299,Pune,Maharashtra,Ecom Express,influencer,0,0.0,0.0,0.0,0.0
+0.17286985929631904,Ship as-is,998,Mumbai,Maharashtra,BlueDart,instagram_organic,0,0.0,0.0,0.0,0.0
+0.2493152053227903,Ship after confirmation,948,Chennai,Tamil Nadu,Ecom Express,influencer,1,21.12,15.1,0.0,6.01
+0.1538932414189486,Ship as-is,1198,Delhi,Delhi,Xpressbees,meta_ads,0,0.0,0.0,0.0,0.0
+0.18663555166643522,Ship as-is,1098,Delhi,Delhi,Xpressbees,direct,0,0.0,0.0,0.0,0.0
+0.15336795790211183,Ship as-is,449,Chennai,Tamil Nadu,Ecom Express,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.14259079109752548,Ship as-is,449,Pune,Maharashtra,Delhivery,whatsapp_broadcast,0,0.0,0.0,0.0,0.0
+0.19983226407512983,Ship as-is,299,Delhi,Delhi,Delhivery,google_ads,0,0.0,0.0,0.0,0.0
+0.20855926201479721,Ship after confirmation,699,Bengaluru,Karnataka,Xpressbees,instagram_organic,1,17.66,15.92,0.0,1.74
+0.2192586197597815,Ship after confirmation,449,Pune,Maharashtra,Shadowfax,meta_ads,0,18.57,15.71,0.0,2.86
+0.4356806369487653,Nudge to prepaid,449,Mumbai,Maharashtra,Ecom Express,whatsapp_broadcast,0,20.11,0.0,7.5,12.61
+0.33772962255857486,Nudge to prepaid,798,Lucknow,Uttar Pradesh,Xpressbees,direct,0,15.13,0.0,7.5,7.63
+0.4416652577891,Nudge to prepaid,449,Chennai,Tamil Nadu,Delhivery,direct,0,20.41,0.0,7.5,12.91
+0.23216133827387975,Ship after confirmation,299,Kolkata,West Bengal,Delhivery,meta_ads,0,19.66,15.45,0.0,4.22
+0.18543541484833662,Ship as-is,399,Mumbai,Maharashtra,Delhivery,influencer,0,0.0,0.0,0.0,0.0
+0.2998952991667328,Ship after confirmation,1098,Lucknow,Uttar Pradesh,Delhivery,direct,1,25.4,14.09,0.0,11.32
+0.20351602056857296,Ship after confirmation,748,Bengaluru,Karnataka,Xpressbees,google_ads,1,17.24,16.02,0.0,1.21
+0.2184302946320097,Ship after confirmation,499,Delhi,Delhi,Delhivery,meta_ads,1,18.5,15.72,0.0,2.78
+0.23279399809664392,Ship after confirmation,449,Kolkata,West Bengal,BlueDart,meta_ads,1,19.72,15.44,0.0,4.28
+0.2523555382036369,Ship after confirmation,1547,Kolkata,West Bengal,Xpressbees,meta_ads,1,21.37,15.04,0.0,6.33
+0.3216020973190317,Nudge to prepaid,599,Patna,Bihar,BlueDart,instagram_organic,1,14.31,0.0,7.5,6.81
+0.24228797467136381,Ship after confirmation,1048,Indore,Madhya Pradesh,Delhivery,instagram_organic,0,20.52,15.24,0.0,5.28
+0.13301108161141204,Ship as-is,1497,Pune,Maharashtra,BlueDart,influencer,0,0.0,0.0,0.0,0.0
+0.1549144761179911,Ship as-is,599,Pune,Maharashtra,Delhivery,influencer,0,0.0,0.0,0.0,0.0
+0.4422279263277971,Nudge to prepaid,599,Darbhanga,Bihar,BlueDart,whatsapp_broadcast,1,20.44,0.0,7.5,12.94
+0.44786068793269923,Nudge to prepaid,699,Lucknow,Uttar Pradesh,Shadowfax,meta_ads,0,20.73,0.0,7.5,13.23
+0.13330719171078897,Ship as-is,1398,Pune,Maharashtra,Xpressbees,influencer,0,0.0,0.0,0.0,0.0

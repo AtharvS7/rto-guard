@@ -1,0 +1,42 @@
+# Business-editable policy. Probabilities are model scores, not guarantees.
+risk_thresholds:
+  ship_as_is_below: 0.20
+  confirm_below: 0.30
+  nudge_below: 0.70
+  # Scores >= nudge_below enter the Hold / cancel bucket.
+
+policy:
+  auto_cancel_enabled: false
+  first_time_customer_protection: true
+  auto_cancel_min_prior_rto: 2
+  geography_only_cancellation: false
+  hold_requires_human_review: true
+
+messaging:
+  confirmation_reminder_after_hours: 2
+  response_deadline_hours: 24
+  prepaid_reminder_after_hours: 6
+  prepaid_discount_expiry_hours: 24
+
+unit_economics:
+  forward_shipping_inr: 65
+  return_shipping_inr: 65
+  packaging_handling_inr: 25
+  damaged_return_rate: 0.08
+  product_cost_inr: 180
+  delivered_gross_margin: 0.62
+  assignment_aov_inr: 649
+  prepaid_rto_rate: 0.04
+  prepaid_discount_inr: 25
+  prepaid_conversion_assumption: 0.30
+  confirmation_rto_prevention_assumption: 0.50
+  confirmation_genuine_timeout_assumption: 0.05
+  confirmation_cost_per_order_inr: 0
+  payment_gateway_fee_assumption_inr: 0
+
+app:
+  timezone: Asia/Kolkata
+  database_path: data/rto_guard.db
+  model_path: artifacts/rto_model.cbm
+  validation_predictions_path: data/validation_predictions.csv
+  metrics_path: artifacts/model_metadata.json

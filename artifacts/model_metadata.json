@@ -1,0 +1,436 @@
+{
+  "temporal_validation": {
+    "train_period": "2026-04-01 to 2026-08-31",
+    "train_orders": 1658,
+    "iteration_selection_train_orders": 1297,
+    "iteration_selection_train_period": "2026-04-01 to 2026-07-31",
+    "iteration_selection_validation_orders": 361,
+    "iteration_selection_validation_period": "2026-08-01 to 2026-08-31",
+    "holdout_period": "2026-09-01 to 2026-09-30",
+    "holdout_orders": 329,
+    "holdout_rto_rate": 0.2614,
+    "roc_auc": 0.7492,
+    "average_precision": 0.5674,
+    "brier_score": 0.163,
+    "selected_iterations": 131
+  },
+  "data_audit": {
+    "raw_rows": 2018,
+    "exact_duplicate_rows_removed": 30,
+    "rows_after_deduplication": 1988,
+    "normalized_status_counts_before_exclusion": {
+      "DELIVERED": 1422,
+      "RTO": 565,
+      "IN_TRANSIT": 1
+    },
+    "unresolved_status_rows_excluded": 1,
+    "clean_labeled_rows": 1987,
+    "delivered_rows": 1422,
+    "rto_rows": 565,
+    "rto_rate": 0.2843482637141419,
+    "date_min": "2026-04-01",
+    "date_max": "2026-09-30",
+    "zero_or_negative_order_value_rows": 3,
+    "inconsistent_prior_history_rows": 4,
+    "sample_aov_mean_inr": 919.957221942627,
+    "sample_aov_median_inr": 748.0
+  },
+  "thresholds": {
+    "ship_as_is_below": 0.2,
+    "confirm_below": 0.3,
+    "nudge_below": 0.7
+  },
+  "feature_importance": [
+    {
+      "feature": "address_len",
+      "importance": 23.36
+    },
+    {
+      "feature": "city",
+      "importance": 21.53
+    },
+    {
+      "feature": "state",
+      "importance": 10.83
+    },
+    {
+      "feature": "order_value",
+      "importance": 8.83
+    },
+    {
+      "feature": "customer_prior_rto",
+      "importance": 6.91
+    },
+    {
+      "feature": "prior_rto_rate",
+      "importance": 6.07
+    },
+    {
+      "feature": "customer_prior_orders",
+      "importance": 3.92
+    },
+    {
+      "feature": "num_items",
+      "importance": 3.87
+    },
+    {
+      "feature": "has_customer_history",
+      "importance": 3.08
+    },
+    {
+      "feature": "utm_source",
+      "importance": 2.96
+    },
+    {
+      "feature": "address_has_digit",
+      "importance": 2.36
+    },
+    {
+      "feature": "courier",
+      "importance": 2.2
+    },
+    {
+      "feature": "address_has_locality",
+      "importance": 1.92
+    },
+    {
+      "feature": "address_is_vague",
+      "importance": 1.06
+    },
+    {
+      "feature": "address_has_landmark",
+      "importance": 0.34
+    },
+    {
+      "feature": "name_is_suspicious",
+      "importance": 0.28
+    },
+    {
+      "feature": "hour",
+      "importance": 0.26
+    },
+    {
+      "feature": "is_weekend",
+      "importance": 0.15
+    },
+    {
+      "feature": "phone_valid",
+      "importance": 0.08
+    },
+    {
+      "feature": "pincode_missing",
+      "importance": 0.01
+    },
+    {
+      "feature": "city_missing",
+      "importance": 0.0
+    },
+    {
+      "feature": "item_family",
+      "importance": 0.0
+    }
+  ],
+  "holdout_bucket_summary": [
+    {
+      "bucket": "Ship as-is",
+      "orders": 88,
+      "observed_rto_orders": 8,
+      "observed_rto_rate": 0.0909,
+      "mean_model_score": 0.1696,
+      "rto_cost_avoided_inr": 0.0,
+      "genuine_margin_lost_inr": 0.0,
+      "prepaid_discount_cost_inr": 0.0,
+      "net_impact_inr": 0.0
+    },
+    {
+      "bucket": "Ship after confirmation",
+      "orders": 125,
+      "observed_rto_orders": 27,
+      "observed_rto_rate": 0.216,
+      "mean_model_score": 0.2312,
+      "rto_cost_avoided_inr": 2447.89,
+      "genuine_margin_lost_inr": 1933.44,
+      "prepaid_discount_cost_inr": 0.0,
+      "net_impact_inr": 514.53
+    },
+    {
+      "bucket": "Nudge to prepaid",
+      "orders": 113,
+      "observed_rto_orders": 48,
+      "observed_rto_rate": 0.4248,
+      "mean_model_score": 0.4382,
+      "rto_cost_avoided_inr": 2286.54,
+      "genuine_margin_lost_inr": 0.0,
+      "prepaid_discount_cost_inr": 847.5,
+      "net_impact_inr": 1439.04
+    },
+    {
+      "bucket": "Hold / cancel",
+      "orders": 3,
+      "observed_rto_orders": 3,
+      "observed_rto_rate": 1.0,
+      "mean_model_score": 0.7288,
+      "rto_cost_avoided_inr": 370.38,
+      "genuine_margin_lost_inr": 327.36,
+      "prepaid_discount_cost_inr": 0.0,
+      "net_impact_inr": 43.03
+    }
+  ],
+  "scenario_impact": {
+    "rto_cost_avoided_inr": 5104.81,
+    "genuine_margin_lost_inr": 2260.8,
+    "prepaid_discount_cost_inr": 847.5,
+    "net_impact_inr": 1996.6,
+    "note": "Scenario estimate versus ship-as-is; based on explicit assumptions in config.yaml, not measured experiment results."
+  },
+  "segments": {
+    "state": [
+      {
+        "state": "Maharashtra",
+        "orders": 385,
+        "rto_orders": 70,
+        "rto_rate": 0.1818
+      },
+      {
+        "state": "Delhi",
+        "orders": 244,
+        "rto_orders": 53,
+        "rto_rate": 0.2172
+      },
+      {
+        "state": "Karnataka",
+        "orders": 212,
+        "rto_orders": 53,
+        "rto_rate": 0.25
+      },
+      {
+        "state": "Uttar Pradesh",
+        "orders": 195,
+        "rto_orders": 86,
+        "rto_rate": 0.441
+      },
+      {
+        "state": "Telangana",
+        "orders": 174,
+        "rto_orders": 44,
+        "rto_rate": 0.2529
+      },
+      {
+        "state": "Rajasthan",
+        "orders": 159,
+        "rto_orders": 48,
+        "rto_rate": 0.3019
+      },
+      {
+        "state": "Tamil Nadu",
+        "orders": 155,
+        "rto_orders": 33,
+        "rto_rate": 0.2129
+      },
+      {
+        "state": "Bihar",
+        "orders": 145,
+        "rto_orders": 78,
+        "rto_rate": 0.5379
+      },
+      {
+        "state": "West Bengal",
+        "orders": 129,
+        "rto_orders": 30,
+        "rto_rate": 0.2326
+      },
+      {
+        "state": "Madhya Pradesh",
+        "orders": 126,
+        "rto_orders": 48,
+        "rto_rate": 0.381
+      },
+      {
+        "state": "Assam",
+        "orders": 63,
+        "rto_orders": 22,
+        "rto_rate": 0.3492
+      }
+    ],
+    "city": [
+      {
+        "city": "Delhi",
+        "orders": 243,
+        "rto_orders": 53,
+        "rto_rate": 0.2181
+      },
+      {
+        "city": "Mumbai",
+        "orders": 214,
+        "rto_orders": 39,
+        "rto_rate": 0.1822
+      },
+      {
+        "city": "Bengaluru",
+        "orders": 212,
+        "rto_orders": 53,
+        "rto_rate": 0.25
+      },
+      {
+        "city": "Hyderabad",
+        "orders": 173,
+        "rto_orders": 44,
+        "rto_rate": 0.2543
+      },
+      {
+        "city": "Pune",
+        "orders": 171,
+        "rto_orders": 31,
+        "rto_rate": 0.1813
+      },
+      {
+        "city": "Chennai",
+        "orders": 155,
+        "rto_orders": 33,
+        "rto_rate": 0.2129
+      },
+      {
+        "city": "Kolkata",
+        "orders": 129,
+        "rto_orders": 30,
+        "rto_rate": 0.2326
+      },
+      {
+        "city": "Jaipur",
+        "orders": 119,
+        "rto_orders": 31,
+        "rto_rate": 0.2605
+      },
+      {
+        "city": "Lucknow",
+        "orders": 117,
+        "rto_orders": 38,
+        "rto_rate": 0.3248
+      },
+      {
+        "city": "Patna",
+        "orders": 80,
+        "rto_orders": 38,
+        "rto_rate": 0.475
+      },
+      {
+        "city": "Indore",
+        "orders": 73,
+        "rto_orders": 22,
+        "rto_rate": 0.3014
+      },
+      {
+        "city": "Darbhanga",
+        "orders": 61,
+        "rto_orders": 36,
+        "rto_rate": 0.5902
+      },
+      {
+        "city": "Sagar",
+        "orders": 53,
+        "rto_orders": 26,
+        "rto_rate": 0.4906
+      },
+      {
+        "city": "Gorakhpur",
+        "orders": 45,
+        "rto_orders": 28,
+        "rto_rate": 0.6222
+      },
+      {
+        "city": "Guwahati",
+        "orders": 42,
+        "rto_orders": 15,
+        "rto_rate": 0.3571
+      },
+      {
+        "city": "Kota",
+        "orders": 39,
+        "rto_orders": 16,
+        "rto_rate": 0.4103
+      },
+      {
+        "city": "Bareilly",
+        "orders": 33,
+        "rto_orders": 20,
+        "rto_rate": 0.6061
+      },
+      {
+        "city": "Nagaon",
+        "orders": 21,
+        "rto_orders": 7,
+        "rto_rate": 0.3333
+      },
+      {
+        "city": "Unknown",
+        "orders": 4,
+        "rto_orders": 2,
+        "rto_rate": 0.5
+      },
+      {
+        "city": "Madhubani",
+        "orders": 3,
+        "rto_orders": 3,
+        "rto_rate": 1.0
+      }
+    ],
+    "utm_source": [
+      {
+        "utm_source": "meta_ads",
+        "orders": 765,
+        "rto_orders": 239,
+        "rto_rate": 0.3124
+      },
+      {
+        "utm_source": "whatsapp_broadcast",
+        "orders": 268,
+        "rto_orders": 70,
+        "rto_rate": 0.2612
+      },
+      {
+        "utm_source": "direct",
+        "orders": 253,
+        "rto_orders": 58,
+        "rto_rate": 0.2292
+      },
+      {
+        "utm_source": "google_ads",
+        "orders": 244,
+        "rto_orders": 69,
+        "rto_rate": 0.2828
+      },
+      {
+        "utm_source": "instagram_organic",
+        "orders": 232,
+        "rto_orders": 68,
+        "rto_rate": 0.2931
+      },
+      {
+        "utm_source": "influencer",
+        "orders": 225,
+        "rto_orders": 61,
+        "rto_rate": 0.2711
+      }
+    ],
+    "customer_prior_rto": [
+      {
+        "customer_prior_rto": "0",
+        "orders": 1845,
+        "rto_orders": 501,
+        "rto_rate": 0.2715
+      },
+      {
+        "customer_prior_rto": "1",
+        "orders": 108,
+        "rto_orders": 38,
+        "rto_rate": 0.3519
+      },
+      {
+        "customer_prior_rto": "2",
+        "orders": 34,
+        "rto_orders": 26,
+        "rto_rate": 0.7647
+      }
+    ]
+  }
+}
